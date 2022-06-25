@@ -8,10 +8,14 @@ This project aims to analyze the entire stock market so our client Steve can pro
 At the beginning of the project, we are presented with the stock information for twelve stocks, including information on ticker value, stock issue date, opening/closing/adjusted closing price, highest/lowest price, and volume of the stock. We used VBA coding to pull information on the total daily volume and return of each stock.
 
 The data below shows the total daily volume for 2017 and 2018. We can easily see which stocks are doing well and which stocks shouldn't be invested in. 
+
 ![VBA_Challenge_2017_data_.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2017_data_.png)
+
 ![VBA_Challenge_2018_data.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2018_data.png)
 
 This information was pulled through VBS, and the following code details how we looped through the data 
+
+Resources/Initial Code.png
 
 ![VBA_Challenge_2017.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
