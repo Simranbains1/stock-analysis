@@ -8,7 +8,7 @@ How do these pros and cons apply to refactoring the original VBA script? (There 
 
 ![VBA_Challenge_2017.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-![VBA_Challenge_2017_data.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2017_data.png)
+![VBA_Challenge_2017_data_.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2017_data_.png)
 
 ![VBA_Challenge_2018.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
