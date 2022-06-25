@@ -1,7 +1,7 @@
 # stock-analysis
 
 ## Overview of Project
-Explain the purpose of this analysis.
+This project aims to analyze the entire stock market so our client Steve can provide a report for his parents. We started with an analysis of a dozen stocks in 2017 aand 2018. In order to go through through thousands of stocks, we refactored the data to run through the entirety of the 2017 and 2018 stocks provided. This lead to a cleaner, more efficient code. 
 
 ## Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
