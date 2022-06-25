@@ -15,29 +15,26 @@ The data below shows the total daily volume for 2017 and 2018. We can easily see
 
 Initially, we ran through the information for the stock DQ. The code below shows how the sheets were looped through to pull the relvant information.
 
-[Resources/Initial Code.png](https://github.com/Simranbains1/stock-analysis/blob/422041ec4f9aac4334538c8a37d2aaa7f01475b5/Resources/Initial%20Code.png)
+![Resources/Initial Code.png](https://github.com/Simranbains1/stock-analysis/blob/422041ec4f9aac4334538c8a37d2aaa7f01475b5/Resources/Initial%20Code.png)
 
 We can see above that the code specifies the ticker DQ, so our refactoring included running through all of the stocks provided. The following code details how we looped through the data for each of the stock options. 
 
-[Resources/Updated Code.png](https://github.com/Simranbains1/stock-analysis/blob/47ee705c3afb21aa36603c0a73685570e27189c1/Resources/Updated%20Code.png)
+![Resources/Updated Code.png](https://github.com/Simranbains1/stock-analysis/blob/47ee705c3afb21aa36603c0a73685570e27189c1/Resources/Updated%20Code.png)
 
 ### Analysis
-Once the code had been refactored, we wanted to check if the execution time improved. Looking below, we can see that the refactored code runs faster for both the 2017 and 2018 analyses. 
+Once the code had been refactored, we wanted to check if the execution time improved. Looking below, we can see that the refactored code runs faster for both the 2017 and 2018 analyses. The refactored execution time is listed before the initial execution time. 
 
 ![VBA_Challenge_2017.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-
-### Analysis
-
-
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-
-
+![VBA_Challene_2017_old.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challene_2017_old.png)
+![VBA_Challene_2018_old.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challene_2018_old.png)
 
 ## Summary
-In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script? (There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script)
+In the project above, we see that there is a huge benefit to refactoring code. The code is now able to run through thousands of stocks in a short amount of time. However, refactoring is not always a plus. We will look at the advantages and disadvantages of refactoring in relation to the original VBA code below. 
 
+### Disadvantages
+If refactoring is not done correctly, it is possible to affect the outcomes that we are looking at. It is imperative that the data is refactored carefully to ensure that the functionality is not changed but streamlined. To ensure that the refactoring process did not affect the results, we have to carefully compare the two and ensure that the two codes are still pulling information the same way. 
 
+### Advantages 
+Refactoring is an essential part of coding. It is similar to dealin with household clutter. The original code is the cluttered home, everything is there but it's not clean or easy to follow. Refactoring takes the clutter and organizes everything into a code that is easy to understand, share, maintain, and add upon. Troubleshooting is also easier in a refactored code because we can more find errors more quickly in a structured code. 
