@@ -14,3 +14,4 @@ How do these pros and cons apply to refactoring the original VBA script? (There 
 
 ![VBA_Challenge_2018_data.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2018_data.png)
 
+
