@@ -13,9 +13,16 @@ The data below shows the total daily volume for 2017 and 2018. We can easily see
 
 ![VBA_Challenge_2018_data.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2018_data.png)
 
-This information was pulled through VBS, and the following code details how we looped through the data 
+Initially, we ran through the information for the stock DQ. The code below shows how the sheets were looped through to pull the relvant information.
 
-Resources/Initial Code.png
+[Resources/Initial Code.png](https://github.com/Simranbains1/stock-analysis/blob/422041ec4f9aac4334538c8a37d2aaa7f01475b5/Resources/Initial%20Code.png)
+
+We can see above that the code specifies the ticker DQ, so our refactoring included running through all of the stocks provided. The following code details how we looped through the data for each of the stock options. 
+
+[Resources/Updated Code.png](https://github.com/Simranbains1/stock-analysis/blob/47ee705c3afb21aa36603c0a73685570e27189c1/Resources/Updated%20Code.png)
+
+### Analysis
+Once the code had been refactored, we wanted to check if the execution time improved. Looking below, we can see that the refactored code runs faster for both the 2017 and 2018 analyses. 
 
 ![VBA_Challenge_2017.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](https://github.com/Simranbains1/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
