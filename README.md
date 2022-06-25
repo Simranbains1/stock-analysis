@@ -5,3 +5,5 @@ Results: Using images and examples of your code, compare the stock performance b
 Summary: In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code?
 How do these pros and cons apply to refactoring the original VBA script? (There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script)
+
+![VBA_Challenge_2017.png](VBA_Challenge_2017.png)
